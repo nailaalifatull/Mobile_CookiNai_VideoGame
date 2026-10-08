@@ -1,0 +1,55 @@
+com.cookinai.app-activity-compose-1.9.0-0 C:\Users\LENOVO\.gradle\caches\transforms-4\074444baed1706c967e1414e3f60eb6f\transformed\activity-compose-1.9.0\res
+com.cookinai.app-core-runtime-2.2.0-1 C:\Users\LENOVO\.gradle\caches\transforms-4\1a17ef409376515c38de557093d55a39\transformed\core-runtime-2.2.0\res
+com.cookinai.app-animation-release-2 C:\Users\LENOVO\.gradle\caches\transforms-4\1d492c7a9c8bf166181b3cce2060b18c\transformed\animation-release\res
+com.cookinai.app-ui-release-3 C:\Users\LENOVO\.gradle\caches\transforms-4\23ab36a5fa5545c3f55171a3130a783a\transformed\ui-release\res
+com.cookinai.app-material-release-4 C:\Users\LENOVO\.gradle\caches\transforms-4\2d28c1b26ce37565bb6e4900c0bf800d\transformed\material-release\res
+com.cookinai.app-material-ripple-release-5 C:\Users\LENOVO\.gradle\caches\transforms-4\36cad5dce8eda1f73fd1f709038b99fc\transformed\material-ripple-release\res
+com.cookinai.app-lifecycle-viewmodel-release-6 C:\Users\LENOVO\.gradle\caches\transforms-4\3c11394a54b07a8dee005dbbae08307b\transformed\lifecycle-viewmodel-release\res
+com.cookinai.app-navigation-compose-2.7.7-7 C:\Users\LENOVO\.gradle\caches\transforms-4\3cbe867d037ae70979e15e5f697c3523\transformed\navigation-compose-2.7.7\res
+com.cookinai.app-lifecycle-viewmodel-ktx-2.8.3-8 C:\Users\LENOVO\.gradle\caches\transforms-4\422b329c783780e9fdd4e74727d5202c\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.cookinai.app-animation-core-release-9 C:\Users\LENOVO\.gradle\caches\transforms-4\432bac1cc49ee64891c913eaf37cc265\transformed\animation-core-release\res
+com.cookinai.app-lifecycle-livedata-core-2.8.3-10 C:\Users\LENOVO\.gradle\caches\transforms-4\4485ce28bd9cf29fcdc40d4173becf2b\transformed\lifecycle-livedata-core-2.8.3\res
+com.cookinai.app-lifecycle-viewmodel-compose-release-11 C:\Users\LENOVO\.gradle\caches\transforms-4\4816804fa1d09574d9378066e7e68868\transformed\lifecycle-viewmodel-compose-release\res
+com.cookinai.app-ui-tooling-data-release-12 C:\Users\LENOVO\.gradle\caches\transforms-4\4ae3c2ceb055405bbb05d01b973dc33d\transformed\ui-tooling-data-release\res
+com.cookinai.app-startup-runtime-1.1.1-13 C:\Users\LENOVO\.gradle\caches\transforms-4\570bb7e0d4d0f307a994cfd17a839a56\transformed\startup-runtime-1.1.1\res
+com.cookinai.app-appcompat-resources-1.6.1-14 C:\Users\LENOVO\.gradle\caches\transforms-4\58d924c824f79f69fd78647afc1d1cca\transformed\appcompat-resources-1.6.1\res
+com.cookinai.app-lifecycle-viewmodel-savedstate-2.8.3-15 C:\Users\LENOVO\.gradle\caches\transforms-4\60c6f1dac8bd5f032959aec433bf7c53\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.cookinai.app-ui-unit-release-16 C:\Users\LENOVO\.gradle\caches\transforms-4\634b51bb6113fab5d7e1e8e3facd1bcb\transformed\ui-unit-release\res
+com.cookinai.app-navigation-common-2.7.7-17 C:\Users\LENOVO\.gradle\caches\transforms-4\69404e1e2b8876a333c1ac76f6b06d28\transformed\navigation-common-2.7.7\res
+com.cookinai.app-foundation-layout-release-18 C:\Users\LENOVO\.gradle\caches\transforms-4\6a21249c877952180a82ae079d0d78db\transformed\foundation-layout-release\res
+com.cookinai.app-annotation-experimental-1.4.0-19 C:\Users\LENOVO\.gradle\caches\transforms-4\6e8dea33ea2625d2621f58538e43fccc\transformed\annotation-experimental-1.4.0\res
+com.cookinai.app-savedstate-ktx-1.2.1-20 C:\Users\LENOVO\.gradle\caches\transforms-4\7058b43f448ec7939afd9f6ef56382d4\transformed\savedstate-ktx-1.2.1\res
+com.cookinai.app-navigation-runtime-ktx-2.7.7-21 C:\Users\LENOVO\.gradle\caches\transforms-4\70b4cd8822e829f52241fce871b2a00d\transformed\navigation-runtime-ktx-2.7.7\res
+com.cookinai.app-customview-poolingcontainer-1.0.0-22 C:\Users\LENOVO\.gradle\caches\transforms-4\7615782a60fcf03d957043d2019ba69f\transformed\customview-poolingcontainer-1.0.0\res
+com.cookinai.app-runtime-saveable-release-23 C:\Users\LENOVO\.gradle\caches\transforms-4\76e83a50c6913cf782886ae85cdef193\transformed\runtime-saveable-release\res
+com.cookinai.app-ui-geometry-release-24 C:\Users\LENOVO\.gradle\caches\transforms-4\776a715af2ad231c9a022c6572743bc5\transformed\ui-geometry-release\res
+com.cookinai.app-core-1.13.1-25 C:\Users\LENOVO\.gradle\caches\transforms-4\793674d0127ce42db92b5270ad91bb29\transformed\core-1.13.1\res
+com.cookinai.app-runtime-release-26 C:\Users\LENOVO\.gradle\caches\transforms-4\8c96c26f21ddd17bcb169369c989b427\transformed\runtime-release\res
+com.cookinai.app-lifecycle-runtime-ktx-release-27 C:\Users\LENOVO\.gradle\caches\transforms-4\92d05ed2b1570af3214bc9d04147aa79\transformed\lifecycle-runtime-ktx-release\res
+com.cookinai.app-ui-tooling-release-28 C:\Users\LENOVO\.gradle\caches\transforms-4\9e94aff55a3124168d31ad9603ddca64\transformed\ui-tooling-release\res
+com.cookinai.app-navigation-common-ktx-2.7.7-29 C:\Users\LENOVO\.gradle\caches\transforms-4\a0dd53f3eccec9579003756561b6dc24\transformed\navigation-common-ktx-2.7.7\res
+com.cookinai.app-material-icons-core-release-30 C:\Users\LENOVO\.gradle\caches\transforms-4\a31cb9e01e4434442efc71a844e8227e\transformed\material-icons-core-release\res
+com.cookinai.app-ui-tooling-preview-release-31 C:\Users\LENOVO\.gradle\caches\transforms-4\adb0c8be72edcb805639b46d379b1114\transformed\ui-tooling-preview-release\res
+com.cookinai.app-material3-release-32 C:\Users\LENOVO\.gradle\caches\transforms-4\ade0ea65198ce55ef416aa7ee10022b4\transformed\material3-release\res
+com.cookinai.app-ui-util-release-33 C:\Users\LENOVO\.gradle\caches\transforms-4\afa7696bbd23474c0fbd273285ff6ca1\transformed\ui-util-release\res
+com.cookinai.app-profileinstaller-1.3.1-34 C:\Users\LENOVO\.gradle\caches\transforms-4\b16000c2abd1be75cb4aed27c2f0a2cc\transformed\profileinstaller-1.3.1\res
+com.cookinai.app-navigation-runtime-2.7.7-35 C:\Users\LENOVO\.gradle\caches\transforms-4\bb519b86f0ececac8683344dfc288bff\transformed\navigation-runtime-2.7.7\res
+com.cookinai.app-lifecycle-process-2.8.3-36 C:\Users\LENOVO\.gradle\caches\transforms-4\bf9d737983a2f440af058ab578889e14\transformed\lifecycle-process-2.8.3\res
+com.cookinai.app-activity-ktx-1.9.0-37 C:\Users\LENOVO\.gradle\caches\transforms-4\c8632edf9ac8fff01288f5bcd506134f\transformed\activity-ktx-1.9.0\res
+com.cookinai.app-emoji2-1.3.0-38 C:\Users\LENOVO\.gradle\caches\transforms-4\c91ae7ec411ff0d664e48c20dfeaa9e5\transformed\emoji2-1.3.0\res
+com.cookinai.app-ui-graphics-release-39 C:\Users\LENOVO\.gradle\caches\transforms-4\cc3ed95135f3c5eb5850d956d73cb325\transformed\ui-graphics-release\res
+com.cookinai.app-ui-text-release-40 C:\Users\LENOVO\.gradle\caches\transforms-4\ce297d36d4a8374c9759e58e54c98431\transformed\ui-text-release\res
+com.cookinai.app-core-ktx-1.13.1-41 C:\Users\LENOVO\.gradle\caches\transforms-4\d755980a7a28ed017e1eded436bc99ae\transformed\core-ktx-1.13.1\res
+com.cookinai.app-savedstate-1.2.1-42 C:\Users\LENOVO\.gradle\caches\transforms-4\db9c012d12cc53bafdc1b8377909b557\transformed\savedstate-1.2.1\res
+com.cookinai.app-activity-1.9.0-43 C:\Users\LENOVO\.gradle\caches\transforms-4\e5c9cbe492402a5513b27bc493d3ef49\transformed\activity-1.9.0\res
+com.cookinai.app-coil-base-2.6.0-44 C:\Users\LENOVO\.gradle\caches\transforms-4\e6c1cc4ba1ec99a1027a388e16613ba9\transformed\coil-base-2.6.0\res
+com.cookinai.app-foundation-release-45 C:\Users\LENOVO\.gradle\caches\transforms-4\eb4c590aa2f6d879a77f759e795b2c9d\transformed\foundation-release\res
+com.cookinai.app-lifecycle-runtime-compose-release-46 C:\Users\LENOVO\.gradle\caches\transforms-4\ecc3cc1489488ddb0e625e3576daa841\transformed\lifecycle-runtime-compose-release\res
+com.cookinai.app-lifecycle-runtime-release-47 C:\Users\LENOVO\.gradle\caches\transforms-4\fc362ea29e7c539e57d86a647c89bf76\transformed\lifecycle-runtime-release\res
+com.cookinai.app-pngs-48 D:\Kuliah\Semester 5\Prak Pemmob\CookiNai\app\build\generated\res\pngs\debug
+com.cookinai.app-resValues-49 D:\Kuliah\Semester 5\Prak Pemmob\CookiNai\app\build\generated\res\resValues\debug
+com.cookinai.app-packageDebugResources-50 D:\Kuliah\Semester 5\Prak Pemmob\CookiNai\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.cookinai.app-packageDebugResources-51 D:\Kuliah\Semester 5\Prak Pemmob\CookiNai\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.cookinai.app-debug-52 D:\Kuliah\Semester 5\Prak Pemmob\CookiNai\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.cookinai.app-debug-53 D:\Kuliah\Semester 5\Prak Pemmob\CookiNai\app\src\debug\res
+com.cookinai.app-main-54 D:\Kuliah\Semester 5\Prak Pemmob\CookiNai\app\src\main\res
